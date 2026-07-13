@@ -241,6 +241,20 @@ The **trace-based model** means all algorithm logic runs server-side. The fronte
 
 ---
 
+## 👥 Team Members
+
+<p align="center"><b>Algorithm Visualizer Project Team</b></p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Sakshi Magadum</b></td>
+    <td align="center"><b>Nikhita Patil</b></td>
+    <td align="center"><b>Ajay Kumbar</b></td>
+    <td align="center"><b>Shreesahil Natikar</b></td>
+  </tr>
+</table>
+
+
 ## 🔧 Troubleshooting
 
 | Issue | Fix |
