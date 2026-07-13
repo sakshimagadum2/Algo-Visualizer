@@ -250,6 +250,7 @@ The **trace-based model** means all algorithm logic runs server-side. The fronte
 | 3      | AJAY KUMBAR              | 02FE24BCS033  |
 | 4      | SHREESAHIL NATIKAR       | 02FE24BCS063  |
 
+---
 
 ## 🔧 Troubleshooting
 
