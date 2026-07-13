@@ -243,16 +243,12 @@ The **trace-based model** means all algorithm logic runs server-side. The fronte
 
 ## 👥 Team Members
 
-<p align="center"><b>Algorithm Visualizer Project Team</b></p>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Sakshi Magadum</b></td>
-    <td align="center"><b>Nikhita Patil</b></td>
-    <td align="center"><b>Ajay Kumbar</b></td>
-    <td align="center"><b>Shreesahil Natikar</b></td>
-  </tr>
-</table>
+| Sl. No. | Name                     | SRN           |
+|--------|--------------------------|---------------|
+| 1      | NIKHITA RAJESH PATIL     | 02FE24BCS005  |
+| 2      | SAKSHI MAGADUM           | 02FE24BCS159  |
+| 3      | AJAY KUMBAR              | 02FE24BCS033  |
+| 4      | SHREESAHIL NATIKAR       | 02FE24BCS063  |
 
 
 ## 🔧 Troubleshooting
