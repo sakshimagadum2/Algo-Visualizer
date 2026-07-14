@@ -245,7 +245,7 @@ The **trace-based model** means all algorithm logic runs server-side. The fronte
 
 | Sl. No. | Name                     | SRN           |
 |--------|--------------------------|---------------|
-| 1      | NIKHITA RAJESH PATIL     | 02FE24BCS005  |
+| 1      | NIKHITA PATIL            | 02FE24BCS005  |
 | 2      | SAKSHI MAGADUM           | 02FE24BCS159  |
 | 3      | AJAY KUMBAR              | 02FE24BCS033  |
 | 4      | SHREESAHIL NATIKAR       | 02FE24BCS063  |
